@@ -27,7 +27,7 @@ Spacy - https://spacy.io/usage
 
 ## Dataset
 
-In this I used manually created dataset it contains 37 screenshots.
+In this I used manually created dataset it contains 37 Images.
 ### Documentation
 
 [Comparision of OCRs](https://docs.google.com/document/d/1g4TOH_O0vuec_5Q0OqME4u95FjpGHXb8-HOmVxQT1rw/edit)
