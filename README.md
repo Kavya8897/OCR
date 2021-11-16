@@ -5,7 +5,7 @@ OCR is a technology to convert handwritten, typed, scanned text, or text inside 
 
 ## Comparision of Different  OCRs
 
-In this I compared different OCRs with 37 screenshots and analyised the results of each OCRs. You can check the analysis in documentation part.
+In this I compared different OCRs with 37 screenshots and analyised the results of each OCRs and used spacy Library for cleaning text and for applying POS tagging. You can check the analysis in documentation part.
 
 ## Extracting text from Images
 
@@ -22,6 +22,8 @@ Tesseract - https://github.com/tesseract-ocr/tesseract
 Normcap - https://github.com/dynobo/normcap
 
 Nanonets - https://nanonets.com/
+
+Spacy - https://spacy.io/usage
 
 ## Dataset
 
